@@ -8,7 +8,7 @@
   
   <!-- Personal Tagline + Xbox GIF -->
   <p>
-    🙎 Victor Khang | 💻 Cybersecurity & IoT Enthusiast | 🛸 India, UK
+    🙎 Victor Khang | 💻 Big Data & IT Enthusiast | 🛸 India, UK
   </p>
   <p>
     <img src="Stare Knock Over GIF by Xbox.gif" alt="Xbox Knock Over GIF" width="600px" style="display:block; margin:10px auto;" />
