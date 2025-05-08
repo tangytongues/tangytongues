@@ -36,11 +36,13 @@
 <!-- About Me with inline image on right -->
 <div style="display:flex; align-items:flex-start;">
   <div style="flex:1;">
-## 🔭 About Me
-- I’m a 20‑year‑old Computer Science & IT undergrad at **SRM KTR**, currently based in Chengalpattu.
-- Passionate about **cybersecurity**, **IoT hardware**, and **big data** solutions.
-- Proficient in **C**, **C++**, **Python**, **Java**, and experienced with **AWS** services.
-- Always up for a game of **Valorant** when I’m not coding 🎮.
+    <h2>🔭 About Me</h2>
+    <ul>
+      <li>I’m a 20‑year‑old Computer Science & IT undergrad at <strong>SRM KTR</strong>, currently based in Chengalpattu.</li>
+      <li>Passionate about <strong>cybersecurity</strong>, <strong>IoT hardware</strong>, and <strong>big data</strong> solutions.</li>
+      <li>Proficient in <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Java</strong>, and experienced with <strong>AWS</strong> services.</li>
+      <li>Always up for a game of <strong>Valorant</strong> when I’m not coding 🎮.</li>
+    </ul>
   </div>
   <div style="flex:0 0 auto; margin-left:20px;">
     <img src="Drawing Doodle GIF.gif" alt="Thinking Frog Doodle" width="120px" />
