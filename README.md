@@ -68,7 +68,6 @@
 - Developing **valbuddy**, a Valorant stats tracker and chatbot assistant using React & Bedrock 🤖
 - Crafting ETL pipelines on **Databricks** for real‑time data ingestion & analytics 📊
 - Diving deeper into **network security**, preparing for CISSP & Red Hat certifications 🔐
-- Secretly working on a cute website project that might just make someone’s Diwali unforgettable 🎆💖
 
 ---
 
