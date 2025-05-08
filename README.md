@@ -8,7 +8,7 @@
   
   <!-- Personal Tagline -->
   <p>
-    🙎 Victor Khang | 💻 Cybersecurity & IoT Enthusiast | 🛸 India, UK
+    🙎 Victor Khang | 💻 IT & Big Data Enthusiast | 🛸 India
   </p>
   
   <!-- Social Links -->
