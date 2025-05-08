@@ -9,6 +9,7 @@
   <!-- Personal Tagline -->
   <p>
     🙎 Victor Khang | 💻 Cybersecurity & IoT Enthusiast | 🛸 India, UK
+    <img src="Stare Knock Over GIF by Xbox.gif" alt="Xbox Knock Over" width="70px" style="vertical-align: middle; margin-left: 10px;"/>
   </p>
   
   <!-- Thinking Frog Doodle GIF -->
@@ -58,6 +59,7 @@
 - Developing **valbuddy**, a Valorant stats tracker and chatbot assistant using React & Bedrock 🤖
 - Crafting ETL pipelines on **Databricks** for real‑time data ingestion & analytics 📊
 - Diving deeper into **network security**, preparing for CISSP & Red Hat certifications 🔐
+- Secretly working on a cute website project that might just make someone’s Diwali unforgettable 🎆💖
 
 ---
 
@@ -70,6 +72,7 @@
 | **Zomato Data Visualization**         | Python • Pandas • Matplotlib • PowerPoint    | Analyzed restaurant dataset; created interactive dashboards & class presentation.  |
 | **News Headlines Sarcasm Detector**   | AWS Glue • Lambda • SageMaker • Python       | ETL pipeline + ML model to flag sarcastic news headlines in real time.             |
 | **Food Picker Big Data Model**        | Databricks • Delta Lake • Spark SQL • Python | Built NLP‑based pipeline recommending dishes based on diet & calorie constraints.   |
+| **Dei UwU Website**                   | HTML • CSS • JavaScript                      | Cute interactive site made for a special someone 💖; includes quiz, surprise UI, and playful UX. |
 
 > See more on my [GitHub profile](https://github.com/victorkhang).
 
