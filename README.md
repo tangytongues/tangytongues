@@ -34,20 +34,22 @@
 ---
 
 <!-- About Me with inline image on right -->
-<div style="display:flex; align-items:flex-start;">
-  <div style="flex:1;">
-    <h2>🔭 About Me</h2>
-    <ul>
-      <li>I’m a 20‑year‑old Computer Science & IT undergrad at <strong>SRM KTR</strong>, currently based in Chengalpattu.</li>
-      <li>Passionate about <strong>cybersecurity</strong>, <strong>IoT hardware</strong>, and <strong>big data</strong> solutions.</li>
-      <li>Proficient in <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Java</strong>, and experienced with <strong>AWS</strong> services.</li>
-      <li>Always up for a game of <strong>Valorant</strong> when I’m not coding 🎮.</li>
-    </ul>
-  </div>
-  <div style="flex:0 0 auto; margin-left:20px;">
-    <img src="Drawing Doodle GIF.gif" alt="Thinking Frog Doodle" width="120px" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h2>🔭 About Me</h2>
+      <ul>
+        <li>I’m a 20‑year‑old Computer Science & IT undergrad at <strong>SRM KTR</strong>, currently based in Chengalpattu.</li>
+        <li>Passionate about <strong>cybersecurity</strong>, <strong>IoT hardware</strong>, and <strong>big data</strong> solutions.</li>
+        <li>Proficient in <strong>C</strong>, <strong>C++</strong>, <strong>Python</strong>, <strong>Java</strong>, and experienced with <strong>AWS</strong> services.</li>
+        <li>Always up for a game of <strong>Valorant</strong> when I’m not coding 🎮.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU3YjM0MGE4YmEyZDk5NDVkYzU1MjhkMWM5Y2U1NThkM2FjYzkzYSZjdD1n/fAnEC88LccN7a/giphy.gif" width="150px" alt="Thinking Frog GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
