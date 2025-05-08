@@ -5,13 +5,26 @@
 
 <div align="center">
   <h1>Hi there, I'm Victor Khang 👋</h1>
+  
+  <!-- Personal Tagline -->
   <p>
-    🎓 B.Tech Student at SRM KTR • Aspiring Cybersecurity Engineer • IoT Enthusiast • Big Data & AWS Explorer
+    🙎 Victor Khang | 💻 Cybersecurity & IoT Enthusiast | 🛸 India, UK
   </p>
+  
+  <!-- Social Links -->
   <p>
-    <a href="https://www.linkedin.com/in/victorkhang" target="_blank">LinkedIn</a> •
-    <a href="https://twitter.com/victor_khang" target="_blank">Twitter</a> •
-    <a href="mailto:victor.khang@example.com">Email</a>
+    <a href="https://twitter.com/victor_khang" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/victor_khang?style=social" alt="Follow on Twitter" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/victorkhang" target="_blank">
+      <img src="https://img.shields.io/github/followers/victorkhang?label=Follow&style=social" alt="Follow on GitHub" />
+    </a>
+  </p>
+  
+  <!-- Witty Statement -->
+  <p>
+    ⚡️I don’t trust people who don’t write SQL queries in <strong>UPPERCASE</strong>⚡️
   </p>
 </div>
 
