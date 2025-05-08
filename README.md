@@ -11,6 +11,11 @@
     🙎 Victor Khang | 💻 Cybersecurity & IoT Enthusiast | 🛸 India, UK
   </p>
   
+  <!-- Thinking Frog Doodle GIF -->
+  <p>
+    <img src="Drawing Doodle GIF.gif" alt="Thinking Frog Doodle" width="120px" />
+  </p>
+
   <!-- Social Links -->
   <p>
     <a href="https://twitter.com/victor_khang" target="_blank">
@@ -87,18 +92,6 @@
 
 ---
 
-## 🎞️ Doodles & Fun
-<!-- Demo GIF -->
-<p align="center">
-  <img src="assets/demo.gif" alt="Demo" width="300px"/>
-</p>
-<!-- Thinking Frog Doodle GIF -->
-<p align="center">
-  <img src="assets/drawing-doodle.gif" alt="Thinking Frog Doodle" width="200px"/>
-</p>
-
----
-
 ## 📫 How to Reach Me
 - 📧 Email: <a href="mailto:victor.khang@example.com">victor.khang@example.com</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/victorkhang" target="_blank">/in/victorkhang</a>  
@@ -106,4 +99,4 @@
 
 ---
 
-> “Stay curious, keep building, and never stop learning.” 🚀  
+> “Stay curious, keep building, and never stop learning.” 🚀
