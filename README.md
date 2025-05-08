@@ -81,7 +81,7 @@
 | **Zomato Data Visualization**         | Python • Pandas • Matplotlib • PowerPoint    | Analyzed restaurant dataset; created interactive dashboards & class presentation.  |
 | **News Headlines Sarcasm Detector**   | AWS Glue • Lambda • SageMaker • Python       | ETL pipeline + ML model to flag sarcastic news headlines in real time.             |
 | **Food Picker Big Data Model**        | Databricks • Delta Lake • Spark SQL • Python | Built NLP‑based pipeline recommending dishes based on diet & calorie constraints.   |
-| **Dei UwU Website**                   | HTML • CSS • JavaScript                      | Cute interactive site made for a special someone 💖; includes quiz, surprise UI, and playful UX. |
+| **UwU Website**                       | HTML • CSS • JavaScript                      | Cute interactive site made for a special someone 💖; includes quiz, surprise UI, and playful UX. |
 
 > See more on my [GitHub profile](https://github.com/victorkhang).
 
