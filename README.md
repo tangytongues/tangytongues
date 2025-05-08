@@ -8,7 +8,7 @@
   
   <!-- Personal Tagline -->
   <p>
-    🙎 Victor Khang | 💻 IT & Big Data Enthusiast | 🛸 India
+    🙎 Victor Khang | 💻 Cybersecurity & IoT Enthusiast | 🛸 India, UK
   </p>
   
   <!-- Social Links -->
@@ -83,6 +83,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorkhang&show_icons=true&theme=radical" alt="Victor’s GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkhang&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🎞️ Doodles & Fun
+<!-- Demo GIF -->
+<p align="center">
+  <img src="assets/demo.gif" alt="Demo" width="300px"/>
+</p>
+<!-- Thinking Frog Doodle GIF -->
+<p align="center">
+  <img src="assets/drawing-doodle.gif" alt="Thinking Frog Doodle" width="200px"/>
 </p>
 
 ---
