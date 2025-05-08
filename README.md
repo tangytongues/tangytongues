@@ -6,15 +6,12 @@
 <div align="center">
   <h1>Hi there, I'm Victor Khang 👋</h1>
   
-  <!-- Personal Tagline -->
+  <!-- Personal Tagline + Xbox GIF -->
   <p>
     🙎 Victor Khang | 💻 Cybersecurity & IoT Enthusiast | 🛸 India, UK
-    <img src="Stare Knock Over GIF by Xbox.gif" alt="Xbox Knock Over" width="70px" style="vertical-align: middle; margin-left: 10px;"/>
   </p>
-  
-  <!-- Thinking Frog Doodle GIF -->
   <p>
-    <img src="Drawing Doodle GIF.gif" alt="Thinking Frog Doodle" width="120px" />
+    <img src="Stare Knock Over GIF by Xbox.gif" alt="Xbox Knock Over GIF" width="600px" style="display:block; margin:10px auto;" />
   </p>
 
   <!-- Social Links -->
@@ -36,7 +33,7 @@
 
 ---
 
-## 🔭 About Me
+## 🔭 About Me <img src="Drawing Doodle GIF.gif" alt="Thinking Frog Doodle" width="100px" style="vertical-align: middle; margin-left:10px;" />
 - I’m a 20‑year‑old Computer Science & IT undergrad at **SRM KTR**, currently based in Chengalpattu.
 - Passionate about **cybersecurity**, **IoT hardware**, and **big data** solutions.
 - Proficient in **C**, **C++**, **Python**, **Java**, and experienced with **AWS** services.
